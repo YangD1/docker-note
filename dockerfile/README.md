@@ -1,6 +1,7 @@
 # dockerfile 学习笔记
-## 参考
--[docker docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+## 具体用法参考
+-[Docker Docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+
 ## 什么是dockerfile
 一个由一系列命令和参数构成的脚本，一个dockerfile里面包含了构建整个 image 的完整命令，可以放在项目目录中，用其构建docker环境从而获得一致的生产环境。
 
